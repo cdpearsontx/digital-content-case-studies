@@ -1,6 +1,13 @@
 # The Summer 2026 Registration Page
 Review and remediate any accessiblity issues with this page
 
+## Project Background
+
+The review of the Summer 2026 Registration webpage began after the page's technical maintainer raised a question in a team group chat about instructions directing visitors to rotate their devices to landscape orientation.
+
+That discussion prompted a subsequent accessibility audit. While the initial concerns involved device orientation and extensive course tables contained within Bootstrap accordions, my review identified additional issues involving cognitive load, information hierarchy, and the presentation of potentially outdated course information.
+
+I documented the accessibility and usability rationale for the recommended changes and shared it with web leadership to support communication with the page's maintainers.
 ### The Challenge
 
 The original Summer 2026 Registration webpage presented students with a large volume of information, including an extensive collection of course tables organized within expandable sections. These tables created significant navigation and cognitive demands while potentially suggesting that listed courses remained available for registration.
