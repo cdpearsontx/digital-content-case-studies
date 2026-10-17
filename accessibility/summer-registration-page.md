@@ -3,7 +3,7 @@ Review and remediate any accessiblity issues with this page
 
 ## Project Background
 
-The review of the Summer 2026 Registration webpage began after the page's technical maintainer raised a question in a team group chat about instructions directing visitors to rotate their devices to landscape orientation.
+The review of the Summer 2026 Registration webpage began after the page's web support specialist raised a question in a team group chat about instructions directing visitors to rotate their devices to landscape orientation.
 
 That discussion prompted a subsequent accessibility audit. While the initial concerns involved device orientation and extensive course tables contained within Bootstrap accordions, my review identified additional issues involving cognitive load, information hierarchy, and the presentation of potentially outdated course information.
 
