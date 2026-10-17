@@ -128,6 +128,7 @@ The project also demonstrated the value of documenting accessibility recommendat
 
 
 **Examples**
+
 [Summer 2026 Before Remediation](summer-2026-registration-before.pdf)
 
 [Summer 2026 After Remediation](summer-2026-registration-after.pdf). 
