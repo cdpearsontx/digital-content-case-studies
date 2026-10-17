@@ -1,5 +1,5 @@
 # The Summer 2026 Registration Page
-Review and remediate any accessiblity issues with this page
+Review and remediate any accessibility issues with this page
 
 ## Project Background
 
