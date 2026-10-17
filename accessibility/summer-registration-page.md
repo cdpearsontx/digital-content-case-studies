@@ -82,3 +82,23 @@ The redesign adjusted the registration boxes to coordinate more closely with the
 The objective was not simply to make the existing content fit within accessibility guidelines. It was to ensure that the page supported its intended purpose.
 
 By removing unnecessary complexity, replacing image-based information with text, and prioritizing the authoritative registration resource, the redesign aimed to reduce barriers while making the page more understandable and actionable for students.
+
+## My Role and Approach
+
+I was responsible for reviewing the Summer 2026 Registration webpage, identifying accessibility and usability barriers, and implementing improvements within the university's content management system (OmniCMS).
+
+My approach focused on the primary purpose of the page: helping students understand summer registration options and locate current course information.
+
+During my review, I identified issues beyond the original concerns about device orientation and extensive course tables. These included excessive cognitive load, an image-based session timeline, a lack of prominence for the primary registration link, and the potential for static course listings to misrepresent current availability.
+
+I used AI-assisted research to help organize the relevant accessibility considerations and develop a professional rationale for the recommended changes. I shared that rationale with web leadership to support discussions with the page's maintainers.
+
+I then implemented the following improvements:
+
+- Removed four extensive course-table sections contained within Bootstrap accordions.
+- Replaced the graphical summer-session timeline with text-based session dates.
+- Used a single OmniCMS radial component to organize essential session information.
+- Added a prominent registration button linking directly to the authoritative course-search system.
+- Updated the registration-pathway boxes to create a more consistent visual presentation.
+
+These changes shifted the page's focus from displaying large quantities of static course information to helping students find the information and registration resources they actually needed.
