@@ -102,3 +102,26 @@ I then implemented the following improvements:
 - Updated the registration-pathway boxes to create a more consistent visual presentation.
 
 These changes shifted the page's focus from displaying large quantities of static course information to helping students find the information and registration resources they actually needed.
+
+## Results and Lessons Learned
+
+The redesigned Summer 2026 Registration webpage presents a more focused path to registration by removing unnecessary complexity and prioritizing essential information.
+
+### Results
+
+- **Simplified navigation:** Removed four extensive course-table accordions, reducing the amount of information students must navigate.
+- **Improved access to registration:** Replaced a visually understated course-search link with a prominent call-to-action button directing students to the authoritative registration resource.
+- **More accessible session information:** Replaced the graphical session timeline with text-based dates and session descriptions.
+- **Reduced dependence on static information:** Eliminated lengthy course listings that could become outdated as registration availability changed.
+- **Clearer visual hierarchy:** Consolidated essential information within a single OmniCMS radial component and updated the registration-pathway boxes for a more coordinated appearance.
+- **Documented decision-making:** Provided web leadership with an accessibility and usability rationale to support communication with the page's maintainers.
+
+### Lessons Learned
+
+This project reinforced the importance of evaluating accessibility in the context of a webpage's overall purpose rather than treating it solely as a checklist of technical requirements.
+
+Although the initial review focused on device orientation and tables within expandable sections, examining the complete student experience revealed opportunities to improve information architecture, content accuracy, and navigation.
+
+The most effective solution was not to preserve every existing element while attempting to make it accessible. It was to determine which information students actually needed on the page and direct them to the appropriate source for current course availability.
+
+The project also demonstrated the value of documenting accessibility recommendations so that substantial design and content changes can be clearly explained to stakeholders.
