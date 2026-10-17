@@ -1,7 +1,7 @@
 # Digital Content Case Studies
 This repository showcases selected projects and case studies involving digital accessibility, web content development, content management systems (CMS), and technical documentation.
 
-## The purpose of this portfolio is to demonstrate my approach to solving digital content challenges, with an emphasis on usability, accessibility, and practical solutions.
+The purpose of this portfolio is to demonstrate my approach to solving digital content challenges, with an emphasis on usability, accessibility, and practical solutions.
 
 Each case study may include project background, challenges, tools and techniques used, solutions implemented, and outcomes.
 
