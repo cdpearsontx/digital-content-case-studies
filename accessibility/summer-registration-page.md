@@ -125,3 +125,8 @@ Although the initial review focused on device orientation and tables within expa
 The most effective solution was not to preserve every existing element while attempting to make it accessible. It was to determine which information students actually needed on the page and direct them to the appropriate source for current course availability.
 
 The project also demonstrated the value of documenting accessibility recommendations so that substantial design and content changes can be clearly explained to stakeholders.
+
+
+**Examples**
+[Summer 2026 Before Remediation](summer-2026-registration-before.pdf)
+[Summer 2026 After Remediation](summer-2026-registration-after.pdf). 
