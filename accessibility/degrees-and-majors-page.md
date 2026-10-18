@@ -133,15 +133,4 @@ The following PDF captures document the original directory and redesigned webpag
 
 *These PDFs serve as visual documentation of the webpage changes, not as examples of PDF accessibility remediation.*
 
-### Content Duplication and Audience Relevance
-
-The original directory attempted to reproduce much of the information already available on individual degree program pages, including program descriptions, sample courses, career opportunities, and Classification of Instructional Programs (CIP) codes.
-
-This approach increased the volume of content visitors had to navigate before reaching the dedicated program pages.
-
-It also introduced unnecessary duplication, potentially increasing the effort required to keep program information accurate and consistent across multiple locations.
-
-Some information, such as CIP codes, served administrative purposes but offered limited immediate value to prospective students using the directory to explore academic options.
-
-The redesign established a clearer distinction between the directory and the individual degree pages: the directory helps visitors locate programs, while the degree pages provide detailed information about those programs.
 
