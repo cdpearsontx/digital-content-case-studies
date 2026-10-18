@@ -1,25 +1,25 @@
-## My Approach
+# Accessibility and Usability Case Studies
 
-I approached the Summer 2026 Registration page as both an accessibility remediation project and an opportunity to improve the student experience.
+This section of my portfolio highlights projects involving digital accessibility, usability, information architecture, and content improvements for university websites.
 
-Rather than attempting to repair extensive static course tables and a graphical session timeline, I evaluated whether those elements were necessary to support the page's primary purpose: helping students find current course information and register for summer classes.
+Each case study documents the original design challenges, my role in identifying and addressing those challenges, the changes implemented, and supporting before-and-after examples.
 
-## Changes Implemented
+## Case Studies
 
-- **Replaced the image-based session timeline:** Converted the graphical Gantt-style chart into readable text listing the summer sessions and their dates.
-- **Simplified the page structure:** Replaced the Bootstrap accordion containing extensive course tables with a single radial CMS component.
-- **Removed potentially misleading course listings:** Eliminated static tables that could not reliably communicate current course availability.
-- **Improved the primary call to action:** Made the link to the course-search and registration resource more prominent with a clearly labeled button.
-- **Refined the visual presentation:** Adjusted the background colors of the registration-pathway boxes to coordinate with the existing buttons and create a more consistent appearance.
+### 1. Summer 2026 Registration Page Redesign
 
-## Accessibility and Usability Considerations
+Simplified a university registration webpage by removing lengthy course-table accordions, improving the visibility of the primary registration action, and replacing image-based scheduling information with text-based content.
 
-The redesign addressed several interconnected concerns:
+**[View Summer Registration Case Study](summer-registration-page.md)**
 
-- **Cognitive load:** Reduced the volume of information students needed to scan and interpret.
-- **Information accessibility:** Presented session dates as text rather than relying on a graphical representation.
-- **Navigation:** Removed lengthy expandable course tables that complicated finding relevant information.
-- **Information accuracy:** Directed students toward the system responsible for current course availability rather than presenting static listings as potentially actionable information.
-- **Task completion:** Gave greater prominence to the primary registration action.
+### 2. Degrees and Majors Directory Redesign
 
-The project illustrates how effective accessibility remediation can require changes to content structure, presentation, and information architecture—not simply corrections to individual page elements.
+Identified usability and information-architecture problems in a university degree directory and redesigned the page using semantic HTML headings, unordered lists, and direct program links. Removed unnecessary image cards, expandable panels, and duplicated program information.
+
+**[View Degrees and Majors Case Study](degrees-and-majors-page.md)**
+
+## Approach
+
+My accessibility and usability work emphasizes clear information hierarchy, meaningful content, native HTML elements, straightforward navigation, and maintainable solutions.
+
+I aim to make information easier to find and use while reducing unnecessary complexity for both website visitors and content maintainers.
