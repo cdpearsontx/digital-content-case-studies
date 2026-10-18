@@ -120,8 +120,8 @@ Ultimately, the most appropriate solution was not a more sophisticated component
 
 The following PDF captures document the original directory and redesigned webpage.
 
-- Before: Original Degrees and Majors Directory
-- After: Redesigned Degrees and Majors Directory
+- Before: [Original Degrees and Majors Directory PDF](uhd-degrees-majors-before.pdf)
+- After: [Redesigned Degrees and Majors Directory PDF](uhd-degrees-majors-after.pdf)
 
 *These PDFs serve as visual documentation of the webpage changes, not as examples of PDF accessibility remediation.*
 
