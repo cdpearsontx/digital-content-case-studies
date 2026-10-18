@@ -50,14 +50,6 @@ Students seeking a particular degree had to scan a large collection of similarly
 
 The redesign organized programs by college and credential category, using headings and bulleted lists to establish a clearer structure.
 
-### 4. Content Duplication and Maintenance
-
-The expandable panels included substantial information about individual programs, including descriptions, sample courses, and potential career paths.
-
-Maintaining detailed program information in both the directory and dedicated program pages increased the opportunity for inconsistent or outdated content.
-
-The redesigned directory focuses on program names and links, leaving detailed information to the appropriate program pages.
-
 ### Content Duplication and Audience Relevance
 
 The original directory attempted to reproduce much of the information already available on individual degree program pages, including program descriptions, sample courses, career opportunities, and Classification of Instructional Programs (CIP) codes.
