@@ -50,7 +50,7 @@ Students seeking a particular degree had to scan a large collection of similarly
 
 The redesign organized programs by college and credential category, using headings and bulleted lists to establish a clearer structure.
 
-### Content Duplication and Audience Relevance
+### 4. Content Duplication and Audience Relevance
 
 The original directory attempted to reproduce much of the information already available on individual degree program pages, including program descriptions, sample courses, career opportunities, and Classification of Instructional Programs (CIP) codes.
 
